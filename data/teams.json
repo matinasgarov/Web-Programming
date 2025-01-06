@@ -1,0 +1,37 @@
+{
+    "1": {
+        "name": "FC Barcelona",
+        "city": "Barcelona",
+        "id": "1"
+    },
+    "2": {
+        "name": "CF Real Madrid",
+        "city": "Madrid",
+        "id": "2"
+    },
+    "3": {
+        "name": "Liverpool",
+        "city": "Liverpool",
+        "id": "3"
+    },
+    "4": {
+        "name": "Bayern Munchen",
+        "city": "Munchen",
+        "id": "4"
+    },
+    "5": {
+        "name": "Man United",
+        "city": "Manchester",
+        "id": "5"
+    },
+    "6": {
+        "name": "Man City",
+        "city": "Manchester",
+        "id": "6"
+    },
+    "7": {
+        "name": "PSG",
+        "city": "Paris",
+        "id": "7"
+    }
+}

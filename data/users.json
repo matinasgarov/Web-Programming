@@ -1,0 +1,30 @@
+{
+    "61dcf7e82b86f": {
+        "username": "admin",
+        "email": "admin@eltestadium.hu",
+        "password": "$2y$10$rfm3pNRcxtt9iZz7Worv6O2FJN4ESRA\/TibdDT.MoQMR8vIs6zUn6",
+        "roles": [
+            "user",
+            "admin"
+        ],
+        "id": "61dcf7e82b86f"
+    },
+    "61dcfa8c24ad8": {
+        "username": "matin",
+        "email": "matinasgarov21@gmail.com",
+        "password": "$2y$10$mBubB.hHOmQ44yHNu6D8RuFBXyF0giqePZeMpjZe6geMZd5ijf9Ai",
+        "roles": [
+            "user"
+        ],
+        "id": "61dcfa8c24ad8"
+    },
+    "61dd5ebc0b8b4": {
+        "username": "zeus",
+        "email": "zeus@gmail.com",
+        "password": "$2y$10$Y5kSmx0n98GTXitvs4N15Of7UUnqCw36fBvirJp8L5Br\/y7bFmvRK",
+        "roles": [
+            "user"
+        ],
+        "id": "61dd5ebc0b8b4"
+    }
+}
